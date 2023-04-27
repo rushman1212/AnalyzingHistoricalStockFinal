@@ -1,3 +1,2 @@
-# AnalyzingHistoricalStockFinal
+# Analyzing Historical Stock Final Project
 
-Testing...
